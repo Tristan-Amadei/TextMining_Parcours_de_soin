@@ -34,7 +34,8 @@ The aim of this section is to extract, through pattern mining, frequent health c
 potentially lethal trajectories. <br />
 Their identification will improve future predictions, as well as trying to better understand the causes of death in heart failure patients.
 ```
-Sequential Pattern Mining is a data mining technique used to discover frequently occurring sequential patterns or subsequences in a sequence database or time-series data; while taking into account the order of occurence.
+Sequential Pattern Mining is a data mining technique used to discover frequently occurring sequential patterns or
+subsequences in a sequence database or time-series data; while taking into account the order of occurence.
 ```
 With this technique, we obtained the most frequent jospitalization patterns for different temporal stamp lengths. <br />
 We notably found that hospitalization for heart failure (’05M09’) is the last hospitalization before death in **33%** of care paths. <br /> <br />
