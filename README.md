@@ -15,4 +15,4 @@ Ainsi, à l'aide des codes GHM (Groupe Homogènes de Malade) caractérisant les 
 
 #### *Diagramme de relation entre entités des différentes bases de données*
 
-![erd](database_erd.png)
+![erd](assets/images/database_erd.png)
