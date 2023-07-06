@@ -1,7 +1,7 @@
 # Stat'App Project - ENSAE 2023
 
 ## Text mining and care pathway: what are the causes of mortality in heart failure patients?
-<br/>
+
 **Supervisors:** Dr. Anne-Isabelle Tropeano, Juliette Murris
 
 *AP-HP & INSERM*
