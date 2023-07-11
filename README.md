@@ -54,7 +54,7 @@ $$h(t) = h_o(t) \cdot exp\left(\sum_{i=1}^p b_ix_i \right)$$
 It can be interpreted as the risk of dying at time t. <br/>
 Stratifying the Cox model on the cluster defined earlier allowed for the hypothesis of said model to be respected. <br/>
 We were able to fit a penalised Cox model, stratified by clusters, to get life expectancy curves.<br/><br/>
-![cox_model_life_exp_cluster5](assets/images/Predict_cluster5.png)
+![cox_model_life_exp_cluster5](https://github.com/Tristan-Amadei/TextMining_Parcours_de_soin/blob/main/assets/images/Predict_cluster5.png)
 
 ### Survival Random Forest
 We also wanted to compare the predictions of the Cox Model with non-parametric ap-
